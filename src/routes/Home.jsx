@@ -31,6 +31,11 @@ const Home = () => {
             <button>Sign Up</button>
           </Link>
         </div>
+        <div className="flex items-center justify-center m-2 p-2">
+          <p className="text-white text-xl">
+            Service by University of Florida for UF students.
+          </p>
+        </div>
       </div>
     </div>
   );
